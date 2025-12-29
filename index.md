@@ -3,11 +3,8 @@ layout: page
 title: Zero to Hero
 ---
 
-<div class="projects-grid">
-
-[TryHackMe](https://tryhackme.com/p/ciber.v01d)
-
-[Linkedin](https://www.linkedin.com/in/andr%C3%A9-pires-117636230/)
+[TryHackMe](https://tryhackme.com/p/ciber.v01d) ·
+[LinkedIn](https://www.linkedin.com/in/andr%C3%A9-pires-117636230/)
 
 ---
 layout: default
