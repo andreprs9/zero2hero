@@ -3,27 +3,33 @@
 
 @import "minima";
 
-/* FORCE DARK TERMINAL THEME */
+/* =========================
+   FORCE DARK TERMINAL THEME
+   ========================= */
 
 body {
-  background-color: #000 !important;
+  background-color: #000000 !important;
   color: #c9d1d9 !important;
 }
 
+/* HEADINGS */
 h1, h2, h3, h4, h5, h6 {
   color: #00ff9c !important;
 }
 
+/* LINKS (PURPLE) */
 a {
   color: #b388ff !important;
 }
 a:hover {
   color: #00ff9c !important;
+  text-decoration: underline;
 }
 
 /* HEADER */
 .site-header {
-  background-color: #000 !important;
+  background-color: #000000 !important;
+  border-bottom: 1px solid #0f0f0f;
 }
 
 .site-title {
@@ -37,8 +43,14 @@ a:hover {
   color: #00ff9c !important;
 }
 
-/* CODE */
+/* CODE BLOCKS */
 pre, code {
-  background: #050505 !important;
+  background-color: #050505 !important;
   color: #7ee787 !important;
+  border: 1px solid #0f0f0f;
+}
+
+/* SEPARATORS */
+hr {
+  border: 1px solid #0f0f0f;
 }
