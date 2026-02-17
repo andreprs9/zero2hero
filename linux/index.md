@@ -1,3 +1,8 @@
+---
+layout: default
+title: Linux Fundamentals
+---
+
 # Linux — Fundamentos Operacionais
 
 ## Objetivo da Trilha
