@@ -1,6 +1,8 @@
+---
 layout: default
-title: OverTheWire
-permalink: /linux/overthewire/
+title: Linux Fundamentals
+permalink: /linux/bandit/
+---
 
 # OverTheWire Bandit — Níveis Iniciais
 
