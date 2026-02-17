@@ -1,7 +1,7 @@
 🚀 Cybersecurity & AI Security Mastery Project
 📌 Visão Geral
 
-Este repositório documenta um projeto contínuo de evolução técnica e estratégica em Cibersegurança e Segurança de Inteligência Artificial, integrando Red Team, Blue Team, Purple Team, Governança (GRC) e AI Security.
+Este repositório documenta um projeto contínuo de evolução técnica e estratégica em Cibersegurança e Segurança de Inteligência Artificial, integrando segurança ofensiva, cibersegurança defensiva, Governança (GRC) e AI Security.
 
 O objetivo é consolidar estudos, laboratórios, pesquisas, ferramentas próprias e frameworks aplicados ao mundo real, criando um roadmap público de desenvolvimento profissional alinhado às demandas mais avançadas do mercado de segurança ofensiva, defensiva e arquitetura de segurança.
 
@@ -24,19 +24,19 @@ Criar ferramentas próprias, documentação técnica e pesquisas aplicadas
 O projeto está organizado em trilhas de conhecimento, cada uma com estudos teóricos, prática em laboratório e produção técnica.
 
 📂 cybersecurity-ai-mastery
- ├── red-team/
+ ├── Offensive-operations/
  │   ├── ad-exploitation/
  │   ├── malware-development/
  │   ├── c2-infrastructure/
  │   └── labs-notes.md
  │
- ├── blue-team/
+ ├── Defensive-security/
  │   ├── threat-detection/
  │   ├── incident-response/
  │   ├── forensics/
  │   └── sigma-rules/
  │
- ├── purple-team/
+ ├── Threat-Intelligence/
  │   ├── mitre-mapping/
  │   ├── attack-to-detection/
  │   └── openbas-scenarios/
@@ -65,7 +65,7 @@ O projeto está organizado em trilhas de conhecimento, cada uma com estudos teó
  │
  └── roadmap.md
 
-🟥 Red Team – Segurança Ofensiva Avançada
+🟥 Segurança Ofensiva Avançada
 
 Foco em exploração moderna, evasão de defesas e entendimento profundo de ambientes corporativos.
 
@@ -81,7 +81,7 @@ Engenharia reversa com Ghidra/IDA
 
 Infraestrutura de Red Team (Sliver, Havoc, Brute Ratel)
 
-🟦 Blue Team – Detecção e Resposta a Incidentes
+🟦 Detecção e Resposta a Incidentes
 
 Construção de deteções de alto valor, threat hunting e resposta avançada.
 
@@ -97,7 +97,7 @@ Forense de memória (Volatility 3)
 
 Resposta a Incidentes e análise de cadeias de ataque
 
-🟪 Purple Team – Validação Contínua
+🟪 Validação Contínua
 
 Integração entre ataque e defesa para melhoria contínua de segurança.
 
